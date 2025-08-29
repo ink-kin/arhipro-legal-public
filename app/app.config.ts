@@ -2,7 +2,7 @@ export default defineAppConfig({
   cover: '/cover.jpg',
   socials: {
     telegram: 'https://t.me/agagafilm',
-    github: 'ink-kin/content-wind-gagarinov',
+    github: 'ink-kin/arhipro-legal-public',
   },
   icon: {
     aliases: {
